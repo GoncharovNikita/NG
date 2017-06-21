@@ -1,0 +1,26 @@
+{
+  "name": "ng",
+  "version": "0.0.1",
+  "description": "ng lang",
+  "main": "precompiler.js",
+  "scripts": {
+    "c": "node precompiler",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoncharovNikita/NG.git"
+  },
+  "author": "Nikita Goncharov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoncharovNikita/NG/issues"
+  },
+  "homepage": "https://github.com/GoncharovNikita/NG#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "fs": "0.0.1-security",
+    "jquery": "^3.2.1",
+    "jquery-ui": "^1.12.1"
+  }
+}
